@@ -14,11 +14,11 @@ const projectsData = [
   },
   {
     id: 2,
-    title: "Potography Portfolio Website",
+    title: " Portfolio Website",
     description: "Project 2 description",
-    image: "/images/projects/2.png",
-    gitUrl: "/",
-    previewUrl: "/",
+    image: "/images/2.png",
+    gitUrl: "/https://github.com/moewaizzz/porfolio-project",
+    previewUrl: "porfolio-project-fiur6cwkk-moewaizzzs-projects.vercel.app",
   },
   {
     id: 3,
